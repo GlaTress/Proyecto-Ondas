@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TP
+  - ReduccionSalto
+  - SaltoDoble
+  - Gravedad
+  - MasSalto
+  - MasVelocidad
+  - AGUA
+  - Suelo
+  - Dash
+  - CheckPoint
+  - Enemy
+  - Hook
+  - Damage
+  - DamageEnemy
+  - EntregarBaston
+  - Drag
+  - Interactuar
+  - Cinematica
+  - EntroPatrullar
+  - EntroTrigger
+  - EntrarAlerta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Grapple
+  - GrappleEnemy
+  - PostProcessing
+  - Player
+  - Enemy
+  - Drag
+  - Interactuar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
